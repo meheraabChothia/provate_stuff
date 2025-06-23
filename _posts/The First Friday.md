@@ -1,0 +1,15 @@
+The First Friday
+
+I recently joined a new company. My first "job". It's been a week so can't really say much about it right now. 
+
+If I had to give a day to day analysis of this week it would go something like this:
+	Day 1: Documentation, very boring.
+	Day 2: Orientation, a little sleep inducing but met my manager properly today who from this point on will be called BM. (While writing this the only thing I can think of now is Bowel Movements)
+	Day 3: Orientation The Sequel, pretty much like D2 but more technical. Most of the stuff they explained sort of went flying over my head.
+	Day 4: Misal, went on a team lunch to eat some Misal Pav, really fun and got my laptop today. Wiped windows instantly (courtesy of BM).
+	Day 5: That's right now and it's 8AM so nothing to say right now.
+	
+Apart from that the one thing I'm going to have to focus on is learning right now. After interacting with everyone in the team, it was a blistering realization that I need to keep improving and adapting, so need to get into that habit. 
+
+To start I am going to try and understand how to use EMACS. It looks like a slightly more complex notepad to me right now. I won't be using it to code not right now, but I will eventually if I feel the need to which to be quite honest I don't yet. But there has to be a reason so many people worship it. 
+Along with EMACS, I need to start with a bunch of topics and essays and books that were given to us by BM. This should be interesting but each one will probably send me down multiple rabbit holes, but I'm interested to see where I end up falling. 

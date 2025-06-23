@@ -6,6 +6,7 @@ title: "The First Friday"
 I recently joined a new company. My first "job". It's been a week so can't really say much about it right now. 
 
 If I had to give a day to day analysis of this week it would go something like this:
+
 1. Day 1: Documentation, very boring.
 2. Day 2: Orientation, a little sleep inducing but met my manager properly today who from this point on will be called BM. (While writing this the only thing I can think of now is Bowel Movements)
 3. Day 3: Orientation The Sequel, pretty much like D2 but more technical. Most of the stuff they explained sort of went flying over my head.

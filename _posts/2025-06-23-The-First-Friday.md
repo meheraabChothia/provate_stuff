@@ -6,11 +6,11 @@ title: "The First Friday"
 I recently joined a new company. My first "job". It's been a week so can't really say much about it right now. 
 
 If I had to give a day to day analysis of this week it would go something like this:
-	Day 1: Documentation, very boring.
-	Day 2: Orientation, a little sleep inducing but met my manager properly today who from this point on will be called BM. (While writing this the only thing I can think of now is Bowel Movements)
-	Day 3: Orientation The Sequel, pretty much like D2 but more technical. Most of the stuff they explained sort of went flying over my head.
-	Day 4: Misal, went on a team lunch to eat some Misal Pav, really fun and got my laptop today. Wiped windows instantly (courtesy of BM).
-	Day 5: That's right now and it's 8AM so nothing to say right now.
+1. Day 1: Documentation, very boring.
+2. Day 2: Orientation, a little sleep inducing but met my manager properly today who from this point on will be called BM. (While writing this the only thing I can think of now is Bowel Movements)
+3. Day 3: Orientation The Sequel, pretty much like D2 but more technical. Most of the stuff they explained sort of went flying over my head.
+4. Day 4: Misal, went on a team lunch to eat some Misal Pav, really fun and got my laptop today. Wiped windows instantly (courtesy of BM).
+5. Day 5: That's right now and it's 8AM so nothing to say right now.
 	
 Apart from that the one thing I'm going to have to focus on is learning right now. After interacting with everyone in the team, it was a blistering realization that I need to keep improving and adapting, so need to get into that habit. 
 

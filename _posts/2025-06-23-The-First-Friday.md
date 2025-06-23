@@ -1,4 +1,7 @@
-The First Friday
+---
+layout: post
+title: "The First Friday"
+---
 
 I recently joined a new company. My first "job". It's been a week so can't really say much about it right now. 
 

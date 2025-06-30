@@ -18,4 +18,3 @@ Apart from that the one thing I'm going to have to focus on is learning right no
 To start I am going to try and understand how to use EMACS. It looks like a slightly more complex notepad to me right now. I won't be using it to code not right now, but I will eventually if I feel the need to which to be quite honest I don't yet. But there has to be a reason so many people worship it. 
 Along with EMACS, I need to start with a bunch of topics and essays and books that were given to us by BM. This should be interesting but each one will probably send me down multiple rabbit holes, but I'm interested to see where I end up falling. 
 
-[TestLink](http://www.extremeprogramming.org/)
